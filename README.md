@@ -131,7 +131,7 @@ risk["risk_flag"] = risk.apply(lambda r:
     "🔴 HIGH RISK" if r["escalations"] >= 3 or r["otif_pct"] < 75 else ...
 ```
 
-**Run individual SQL queries** by copying from `supplier_performance.sql` into your ERP's reporting tool (SAP, NetSuite, etc.) — queries are written in standard SQL.
+**Run individual SQL queries** by copying from `supplier_performance.sql` into your ERP's reporting tool (SAP, NetSuite, etc.) queries are written in standard SQL.
 
 ---
 
