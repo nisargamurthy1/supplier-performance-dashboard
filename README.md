@@ -11,7 +11,7 @@
 
 ## 📌 Overview
 
-End-to-end supplier performance system — SQL queries against a structured database, Python pipeline, and a **fully formatted Excel dashboard** with 6 sheets. Tracks OTIF, lead time variance, quality pass rate, spend concentration, and escalation risk across 40+ supplier interactions.
+End-to-end supplier performance system SQL queries against a structured database, Python pipeline, and a **fully formatted Excel dashboard** with 6 sheets. Tracks OTIF, lead time variance, quality pass rate, spend concentration, and escalation risk across 40+ supplier interactions.
 
 Built from managing supplier performance at **Daimler Trucks India** across 40+ vendors, driving **12% improvement in on-time delivery** and **~20% reduction in line-down incidents**.
 
@@ -143,7 +143,6 @@ Replicates supplier management work at **Daimler Trucks India**:
 - 🚛 Drove **12% improvement in on-time delivery** through scorecard-driven reviews
 - 📈 Elevated **CTB status by 8.2%** via cross-functional supplier alignment
 - 🏭 Reduced **line-down risk incidents by ~20%** through early escalation detection
-- 📋 Maintained **COA/SDS compliance** tracking for all approved vendors
 
 ---
 
