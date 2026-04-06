@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-3572A5?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![SQL](https://img.shields.io/badge/SQL-SQLite-e38c00?style=flat-square&logo=sqlite&logoColor=white)](https://sqlite.org)
 [![Excel](https://img.shields.io/badge/Excel-Dashboard-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://microsoft.com/excel)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+
 
 ---
 
